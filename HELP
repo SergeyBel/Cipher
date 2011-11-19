@@ -1,0 +1,18 @@
+HELP:
+
+1.Parameters
+
+a)./cipher arg1  
+arg1 = -h(-help) - read help file
+ 
+b)./cipher arg1 arg2 arg3
+arg1 = -e(-encrypt) or -d(-decrypt) - crypt/decrypt file
+arg2 = input file
+arg3 = output file
+
+2.Keys:
+Key must be in hex format and consist of 16 numbers.
+For example:
+ABCDEF1234567890
+42fbaa9876141677
+
